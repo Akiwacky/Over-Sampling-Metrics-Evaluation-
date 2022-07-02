@@ -1,5 +1,5 @@
-# SMOTE-Analysis-Metrics-Evaluation-
-SMOTE Analysis with Classification Metrics Evaluation
+# Over-Sampling-Metrics-Evaluation-
+Over-Sampling Analysis with Classification Metrics Evaluation
 ## Analysis of over sampling when evaluating Logistic Regression with the following metrics 
 
 * Confusion Matrix 
