@@ -1,6 +1,6 @@
-# Over-Sampling-Metrics-Evaluation-
-Over-Sampling Analysis with Classification Metrics Evaluation
-## Analysis of over sampling when evaluating Logistic Regression with the following metrics 
+# Over-Sampling Analysis with Classification Metrics Evaluation
+
+### Analysis of over sampling when evaluating Logistic Regression with the following metrics 
 
 * Confusion Matrix 
 * ROC and AUC Curve 
@@ -18,3 +18,6 @@ From the Phi-K correlation, I took the top three variables correlated with the t
 I then performed the analysis again with just these variables and came to a very similar accuracy score, which would imply that the other 16 variables do not add significant importance to the model. 
 
 However,  from the results, the model is not that effective.
+
+
+Code: https://github.com/Akiwacky/Over-Sampling-Metrics-Evaluation-
