@@ -20,4 +20,4 @@ I then performed the analysis again with just these variables and came to a very
 However,  from the results, the model is not that effective.
 
 
-Code: https://github.com/Akiwacky/Over-Sampling-Metrics-Evaluation-
+[Code](https://github.com/Akiwacky/Over-Sampling-Metrics-Evaluation-)
